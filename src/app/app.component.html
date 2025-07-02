@@ -1,0 +1,32 @@
+<div class="container">
+  <h1>CommuteGo 🚦</h1>
+
+  <form (submit)="getTraffic($event)">
+    <div class="form-row">
+      <label for="origin">Origin:</label>
+      <input [(ngModel)]="origin" name="origin" id="origin" placeholder="Enter origin" required />
+    </div>
+
+    <div class="form-row">
+      <label for="destination">Destination:</label>
+      <input [(ngModel)]="destination" name="destination" id="destination" placeholder="Enter destination" required />
+    </div>
+
+    <div class="form-row">
+      <label for="arrivalTime">Arrival Time:</label>
+      <input type="time" [(ngModel)]="arrivalTime" name="arrivalTime" id="arrivalTime" required />
+    </div>
+
+    <button type="submit">Check Commute</button>
+  </form>
+
+  <div *ngIf="loading">🔄 Loading traffic data...</div>
+  <div *ngIf="errorMessage" class="error">{{ errorMessage }}</div>
+
+  <div *ngIf="trafficData" class="results">
+    <p><strong>Distance:</strong> {{ trafficData.distance }}</p>
+    <p><strong>Duration:</strong> {{ trafficData.duration }}</p>
+    <p><strong>Leave By:</strong> {{ trafficData.leave_by }}</p>
+    <p><strong>Arrival:</strong> {{ trafficData.arrival_time }}</p>
+  </div>
+</div>
