@@ -1,0 +1,10 @@
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\CommuteGoAPI.exe
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\CommuteGoAPI.dll
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\CommuteGoAPI.deps.json
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\CommuteGoAPI.runtimeconfig.json
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\CommuteGoAPI.pdb
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\satya\source\repos\TrafiicTracksApi\TrafiicTracksApi\obj\Release\net9.0\PubTmp\Out\Scalar.AspNetCore.dll

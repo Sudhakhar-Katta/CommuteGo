@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "auNGKZMtdbo8/1XRyRk4ef8iMNzBs2TqvbVsp4OwkKk=",
+  "Source": "CommuteGoAPI",
+  "BasePath": "_content/CommuteGoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

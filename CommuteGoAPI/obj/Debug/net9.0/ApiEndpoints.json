@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TrafiicTracksApi.Controllers.TrafficController",
+    "Method": "GetTraffic",
+    "RelativePath": "api/Traffic/Smart-Departure",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "destination",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "origin",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "arrivalTime",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

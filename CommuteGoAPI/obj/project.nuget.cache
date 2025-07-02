@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JchFefKYV58=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\satya\\source\\repos\\TrafiicTracksApi\\TrafiicTracksApi\\CommuteGoAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\satya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\satya\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\satya\\.nuget\\packages\\scalar.aspnetcore\\2.5.3\\scalar.aspnetcore.2.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
